@@ -1,2 +1,3 @@
 # electron-start
-project training with electron
+
+playing with electron.js
